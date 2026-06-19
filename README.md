@@ -86,8 +86,6 @@ Code execution powered by Judge0 API.
 
 ## 📸 Screenshots
 
-Add screenshots of:
-
 1. Login Page
 ![alt text](image.png)
 2. Register Page
